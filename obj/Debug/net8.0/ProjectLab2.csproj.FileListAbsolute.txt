@@ -1,0 +1,14 @@
+C:\Users\timap\source\repos\ProjectLab2\ProjectLab2\bin\Debug\net8.0\ProjectLab2.exe
+C:\Users\timap\source\repos\ProjectLab2\ProjectLab2\bin\Debug\net8.0\ProjectLab2.deps.json
+C:\Users\timap\source\repos\ProjectLab2\ProjectLab2\bin\Debug\net8.0\ProjectLab2.runtimeconfig.json
+C:\Users\timap\source\repos\ProjectLab2\ProjectLab2\bin\Debug\net8.0\ProjectLab2.dll
+C:\Users\timap\source\repos\ProjectLab2\ProjectLab2\bin\Debug\net8.0\ProjectLab2.pdb
+C:\Users\timap\source\repos\ProjectLab2\ProjectLab2\obj\Debug\net8.0\ProjectLab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timap\source\repos\ProjectLab2\ProjectLab2\obj\Debug\net8.0\ProjectLab2.AssemblyInfoInputs.cache
+C:\Users\timap\source\repos\ProjectLab2\ProjectLab2\obj\Debug\net8.0\ProjectLab2.AssemblyInfo.cs
+C:\Users\timap\source\repos\ProjectLab2\ProjectLab2\obj\Debug\net8.0\ProjectLab2.csproj.CoreCompileInputs.cache
+C:\Users\timap\source\repos\ProjectLab2\ProjectLab2\obj\Debug\net8.0\ProjectLab2.dll
+C:\Users\timap\source\repos\ProjectLab2\ProjectLab2\obj\Debug\net8.0\refint\ProjectLab2.dll
+C:\Users\timap\source\repos\ProjectLab2\ProjectLab2\obj\Debug\net8.0\ProjectLab2.pdb
+C:\Users\timap\source\repos\ProjectLab2\ProjectLab2\obj\Debug\net8.0\ProjectLab2.genruntimeconfig.cache
+C:\Users\timap\source\repos\ProjectLab2\ProjectLab2\obj\Debug\net8.0\ref\ProjectLab2.dll
